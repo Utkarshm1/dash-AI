@@ -1,0 +1,251 @@
+CampaignID,Product,SpendUSD,Impressions,Clicks,CTR,BounceRate,ConversionRate,SentimentText
+C0001,Camera Accessories,1926,36556,717,0.0196,0.41,0.11,Great campaign performance and strong user engagement
+C0002,Gaming Accessories,2259,41309,414,0.01,0.37,0.19,Great campaign performance and strong user engagement
+C0003,Gaming Accessories,1660,36919,916,0.0248,0.38,0.1,High click-through but low conversions
+C0004,Camera Accessories,2094,19931,1125,0.0564,0.38,0.14,Great campaign performance and strong user engagement
+C0005,Home Audio,1930,47970,1398,0.0291,0.39,0.14,"Low engagement, unclear messaging"
+C0006,Gaming Accessories,1895,27688,712,0.0257,0.38,0.05,"Mixed feedback, moderate performance"
+C0007,Gaming Accessories,1844,40342,1028,0.0255,0.51,0.15,High click-through but low conversions
+C0008,Gaming Accessories,2438,17327,1320,0.0762,0.4,0.08,Strong sentiment and excellent brand recall
+C0009,Camera Accessories,921,15197,1060,0.0698,0.44,0.19,"Mixed feedback, moderate performance"
+C0010,Gaming Accessories,1266,38509,975,0.0253,0.57,0.07,"Low engagement, unclear messaging"
+C0011,Camera Accessories,2038,49698,756,0.0152,0.47,0.11,"Mixed feedback, moderate performance"
+C0012,Camera Accessories,1130,30087,1219,0.0405,0.52,0.06,"Low engagement, unclear messaging"
+C0013,Camera Accessories,2282,37671,491,0.013,0.39,0.2,"Low engagement, unclear messaging"
+C0014,Gaming Accessories,887,40184,1038,0.0258,0.4,0.13,Strong sentiment and excellent brand recall
+C0015,Camera Accessories,2196,42848,1422,0.0332,0.36,0.14,"Mixed feedback, moderate performance"
+C0016,Home Audio,1923,35666,1277,0.0358,0.39,0.06,Strong sentiment and excellent brand recall
+C0017,Gaming Accessories,1671,30708,1308,0.0426,0.42,0.16,Strong sentiment and excellent brand recall
+C0018,Gaming Accessories,2487,41370,395,0.0095,0.39,0.08,"Mixed feedback, moderate performance"
+C0019,Gaming Accessories,930,17811,962,0.054,0.37,0.18,Great campaign performance and strong user engagement
+C0020,Gaming Accessories,2485,21546,336,0.0156,0.38,0.08,Great campaign performance and strong user engagement
+C0021,Gaming Accessories,2132,49754,578,0.0116,0.47,0.08,Strong sentiment and excellent brand recall
+C0022,Camera Accessories,1569,45206,516,0.0114,0.4,0.06,High click-through but low conversions
+C0023,Camera Accessories,1143,26411,1166,0.0441,0.44,0.12,Strong sentiment and excellent brand recall
+C0024,Gaming Accessories,2315,17911,1172,0.0654,0.48,0.13,Strong sentiment and excellent brand recall
+C0025,Camera Accessories,2237,16734,361,0.0216,0.52,0.06,Strong sentiment and excellent brand recall
+C0026,Gaming Accessories,1605,33227,895,0.0269,0.36,0.17,Great campaign performance and strong user engagement
+C0027,Camera Accessories,1185,23680,1028,0.0434,0.55,0.12,Great campaign performance and strong user engagement
+C0028,Camera Accessories,2015,34360,696,0.0203,0.51,0.13,Great campaign performance and strong user engagement
+C0029,Camera Accessories,1755,33343,998,0.0299,0.37,0.12,Strong sentiment and excellent brand recall
+C0030,Camera Accessories,1076,20759,1342,0.0646,0.57,0.11,High click-through but low conversions
+C0031,Home Audio,1984,38078,476,0.0125,0.58,0.13,Great campaign performance and strong user engagement
+C0032,Gaming Accessories,1259,26111,695,0.0266,0.37,0.07,"Mixed feedback, moderate performance"
+C0033,Home Audio,2137,16802,744,0.0443,0.42,0.08,"Mixed feedback, moderate performance"
+C0034,Camera Accessories,821,23155,375,0.0162,0.55,0.18,"Mixed feedback, moderate performance"
+C0035,Home Audio,1052,23120,564,0.0244,0.54,0.19,"Low engagement, unclear messaging"
+C0036,Gaming Accessories,1547,36918,754,0.0204,0.4,0.11,Strong sentiment and excellent brand recall
+C0037,Gaming Accessories,1656,35445,1017,0.0287,0.4,0.09,"Mixed feedback, moderate performance"
+C0038,Camera Accessories,2384,45306,1034,0.0228,0.44,0.15,Strong sentiment and excellent brand recall
+C0039,Home Audio,1274,31646,1150,0.0363,0.47,0.11,"Mixed feedback, moderate performance"
+C0040,Home Audio,1882,46065,443,0.0096,0.5,0.05,High click-through but low conversions
+C0041,Home Audio,1310,40199,1184,0.0295,0.44,0.07,Strong sentiment and excellent brand recall
+C0042,Gaming Accessories,2299,31371,1392,0.0444,0.47,0.16,"Mixed feedback, moderate performance"
+C0043,Gaming Accessories,1499,26835,1422,0.053,0.54,0.15,Great campaign performance and strong user engagement
+C0044,Home Audio,1775,17049,695,0.0408,0.36,0.05,Strong sentiment and excellent brand recall
+C0045,Gaming Accessories,989,46616,1348,0.0289,0.41,0.08,"Low engagement, unclear messaging"
+C0046,Gaming Accessories,1757,35932,1247,0.0347,0.53,0.08,Great campaign performance and strong user engagement
+C0047,Home Audio,1486,44855,1190,0.0265,0.57,0.15,Great campaign performance and strong user engagement
+C0048,Gaming Accessories,1757,22158,1474,0.0665,0.48,0.05,"Low engagement, unclear messaging"
+C0049,Home Audio,1362,22400,1467,0.0655,0.48,0.07,Great campaign performance and strong user engagement
+C0050,Home Audio,2390,30151,868,0.0288,0.38,0.17,Great campaign performance and strong user engagement
+C0051,Camera Accessories,2067,16154,1362,0.0843,0.46,0.08,"Mixed feedback, moderate performance"
+C0052,Home Audio,1631,19499,408,0.0209,0.48,0.15,"Mixed feedback, moderate performance"
+C0053,Gaming Accessories,2328,21295,1365,0.0641,0.41,0.09,Strong sentiment and excellent brand recall
+C0054,Camera Accessories,1954,27183,1234,0.0454,0.42,0.06,Strong sentiment and excellent brand recall
+C0055,Home Audio,2308,44299,697,0.0157,0.44,0.09,Strong sentiment and excellent brand recall
+C0056,Camera Accessories,1446,27874,933,0.0335,0.36,0.16,"Mixed feedback, moderate performance"
+C0057,Gaming Accessories,820,47711,1456,0.0305,0.43,0.18,Strong sentiment and excellent brand recall
+C0058,Home Audio,1640,20539,1486,0.0724,0.4,0.17,Great campaign performance and strong user engagement
+C0059,Gaming Accessories,966,17557,1032,0.0588,0.43,0.11,"Mixed feedback, moderate performance"
+C0060,Camera Accessories,2097,31482,534,0.017,0.38,0.15,Strong sentiment and excellent brand recall
+C0061,Home Audio,1187,17200,957,0.0556,0.57,0.08,Great campaign performance and strong user engagement
+C0062,Camera Accessories,1400,17961,1050,0.0585,0.5,0.09,Strong sentiment and excellent brand recall
+C0063,Camera Accessories,1115,36357,887,0.0244,0.52,0.18,High click-through but low conversions
+C0064,Home Audio,813,26969,1332,0.0494,0.55,0.05,Strong sentiment and excellent brand recall
+C0065,Camera Accessories,1041,17869,1397,0.0782,0.47,0.06,High click-through but low conversions
+C0066,Gaming Accessories,1576,43643,1253,0.0287,0.37,0.08,Strong sentiment and excellent brand recall
+C0067,Camera Accessories,2169,39736,791,0.0199,0.48,0.05,"Low engagement, unclear messaging"
+C0068,Gaming Accessories,1364,38328,1212,0.0316,0.5,0.08,Strong sentiment and excellent brand recall
+C0069,Gaming Accessories,1697,40876,1497,0.0366,0.54,0.14,"Mixed feedback, moderate performance"
+C0070,Camera Accessories,2163,36295,1491,0.0411,0.46,0.11,"Mixed feedback, moderate performance"
+C0071,Gaming Accessories,891,18987,469,0.0247,0.38,0.18,High click-through but low conversions
+C0072,Home Audio,2190,37399,1245,0.0333,0.42,0.17,"Mixed feedback, moderate performance"
+C0073,Gaming Accessories,1755,48986,1094,0.0223,0.44,0.1,Great campaign performance and strong user engagement
+C0074,Gaming Accessories,2278,35880,933,0.026,0.51,0.09,"Low engagement, unclear messaging"
+C0075,Gaming Accessories,2251,19735,328,0.0166,0.49,0.11,"Low engagement, unclear messaging"
+C0076,Home Audio,1308,19555,1488,0.0761,0.44,0.14,Great campaign performance and strong user engagement
+C0077,Home Audio,1575,34830,638,0.0183,0.6,0.09,High click-through but low conversions
+C0078,Home Audio,834,32429,799,0.0246,0.5,0.14,Great campaign performance and strong user engagement
+C0079,Camera Accessories,1005,21893,810,0.037,0.41,0.11,Great campaign performance and strong user engagement
+C0080,Home Audio,1904,29373,516,0.0176,0.38,0.13,"Low engagement, unclear messaging"
+C0081,Gaming Accessories,2385,18436,1455,0.0789,0.39,0.12,Strong sentiment and excellent brand recall
+C0082,Home Audio,2211,23754,1393,0.0586,0.41,0.09,"Low engagement, unclear messaging"
+C0083,Home Audio,1825,25677,744,0.029,0.39,0.19,"Low engagement, unclear messaging"
+C0084,Gaming Accessories,1821,20895,1175,0.0562,0.4,0.16,"Mixed feedback, moderate performance"
+C0085,Camera Accessories,2213,34738,466,0.0134,0.42,0.07,Great campaign performance and strong user engagement
+C0086,Home Audio,1365,45746,390,0.0085,0.39,0.18,"Low engagement, unclear messaging"
+C0087,Camera Accessories,1929,47352,1013,0.0214,0.57,0.12,Great campaign performance and strong user engagement
+C0088,Camera Accessories,2300,20600,338,0.0164,0.37,0.18,"Mixed feedback, moderate performance"
+C0089,Camera Accessories,1502,44124,1449,0.0328,0.48,0.17,Great campaign performance and strong user engagement
+C0090,Gaming Accessories,1201,42643,472,0.0111,0.45,0.11,"Low engagement, unclear messaging"
+C0091,Camera Accessories,1529,24007,952,0.0397,0.6,0.05,Great campaign performance and strong user engagement
+C0092,Camera Accessories,2379,23208,1053,0.0454,0.38,0.09,"Mixed feedback, moderate performance"
+C0093,Gaming Accessories,961,33589,1381,0.0411,0.45,0.13,Strong sentiment and excellent brand recall
+C0094,Camera Accessories,1001,32453,775,0.0239,0.59,0.15,Great campaign performance and strong user engagement
+C0095,Camera Accessories,1795,47635,755,0.0158,0.57,0.09,"Low engagement, unclear messaging"
+C0096,Gaming Accessories,1069,48828,1128,0.0231,0.55,0.07,"Mixed feedback, moderate performance"
+C0097,Gaming Accessories,1615,33711,1194,0.0354,0.41,0.18,"Low engagement, unclear messaging"
+C0098,Home Audio,2094,18420,1324,0.0719,0.39,0.2,"Low engagement, unclear messaging"
+C0099,Home Audio,1255,46216,686,0.0148,0.52,0.13,Great campaign performance and strong user engagement
+C0100,Home Audio,2285,15301,647,0.0423,0.58,0.08,"Low engagement, unclear messaging"
+C0101,Camera Accessories,2075,15699,489,0.0311,0.49,0.09,Great campaign performance and strong user engagement
+C0102,Camera Accessories,1816,15190,804,0.0529,0.49,0.05,Strong sentiment and excellent brand recall
+C0103,Camera Accessories,1095,25492,1123,0.0441,0.42,0.19,"Low engagement, unclear messaging"
+C0104,Gaming Accessories,1519,21102,1228,0.0582,0.54,0.07,"Low engagement, unclear messaging"
+C0105,Camera Accessories,1137,34778,1233,0.0355,0.4,0.14,"Low engagement, unclear messaging"
+C0106,Home Audio,1678,41641,1440,0.0346,0.43,0.09,High click-through but low conversions
+C0107,Gaming Accessories,1876,49584,433,0.0087,0.46,0.13,High click-through but low conversions
+C0108,Gaming Accessories,1591,47745,357,0.0075,0.48,0.15,"Mixed feedback, moderate performance"
+C0109,Gaming Accessories,1016,38093,984,0.0258,0.41,0.17,High click-through but low conversions
+C0110,Home Audio,1563,15569,971,0.0624,0.38,0.08,"Mixed feedback, moderate performance"
+C0111,Home Audio,987,49663,472,0.0095,0.5,0.05,High click-through but low conversions
+C0112,Home Audio,1179,22455,1114,0.0496,0.42,0.07,Strong sentiment and excellent brand recall
+C0113,Gaming Accessories,1292,19014,1472,0.0774,0.5,0.19,"Mixed feedback, moderate performance"
+C0114,Gaming Accessories,1864,26093,379,0.0145,0.39,0.18,High click-through but low conversions
+C0115,Camera Accessories,1980,33070,1185,0.0358,0.47,0.14,Strong sentiment and excellent brand recall
+C0116,Camera Accessories,814,31538,502,0.0159,0.48,0.14,High click-through but low conversions
+C0117,Home Audio,864,25729,1063,0.0413,0.36,0.15,Great campaign performance and strong user engagement
+C0118,Gaming Accessories,1320,49177,346,0.007,0.43,0.08,Great campaign performance and strong user engagement
+C0119,Camera Accessories,2167,15784,1466,0.0929,0.38,0.19,Strong sentiment and excellent brand recall
+C0120,Home Audio,1952,42751,955,0.0223,0.37,0.11,"Low engagement, unclear messaging"
+C0121,Home Audio,1447,27533,770,0.028,0.6,0.11,"Low engagement, unclear messaging"
+C0122,Camera Accessories,2295,20801,1270,0.0611,0.43,0.13,Great campaign performance and strong user engagement
+C0123,Home Audio,1886,34190,1335,0.039,0.55,0.06,Great campaign performance and strong user engagement
+C0124,Gaming Accessories,1962,44592,1035,0.0232,0.41,0.07,"Low engagement, unclear messaging"
+C0125,Home Audio,2322,25647,1083,0.0422,0.52,0.16,"Mixed feedback, moderate performance"
+C0126,Gaming Accessories,1392,23716,1267,0.0534,0.54,0.06,"Low engagement, unclear messaging"
+C0127,Gaming Accessories,1191,38355,657,0.0171,0.5,0.14,High click-through but low conversions
+C0128,Camera Accessories,2498,37009,1271,0.0343,0.47,0.09,"Mixed feedback, moderate performance"
+C0129,Camera Accessories,1218,39376,967,0.0246,0.45,0.11,High click-through but low conversions
+C0130,Camera Accessories,1088,19780,672,0.034,0.44,0.09,Great campaign performance and strong user engagement
+C0131,Home Audio,1178,17368,1331,0.0766,0.58,0.1,"Mixed feedback, moderate performance"
+C0132,Camera Accessories,2313,27039,1445,0.0534,0.56,0.16,High click-through but low conversions
+C0133,Camera Accessories,1030,21655,975,0.045,0.59,0.09,High click-through but low conversions
+C0134,Home Audio,1817,19495,389,0.02,0.38,0.13,"Mixed feedback, moderate performance"
+C0135,Camera Accessories,840,25893,997,0.0385,0.53,0.12,Strong sentiment and excellent brand recall
+C0136,Home Audio,1851,40547,839,0.0207,0.58,0.15,"Low engagement, unclear messaging"
+C0137,Home Audio,934,37386,1031,0.0276,0.4,0.19,High click-through but low conversions
+C0138,Gaming Accessories,1000,28403,1168,0.0411,0.37,0.16,"Low engagement, unclear messaging"
+C0139,Gaming Accessories,1579,47097,340,0.0072,0.54,0.08,"Low engagement, unclear messaging"
+C0140,Camera Accessories,1729,28121,1039,0.0369,0.49,0.05,Great campaign performance and strong user engagement
+C0141,Home Audio,1856,25966,801,0.0308,0.56,0.09,"Low engagement, unclear messaging"
+C0142,Gaming Accessories,1871,48621,1258,0.0259,0.38,0.14,High click-through but low conversions
+C0143,Gaming Accessories,1302,43312,1468,0.0339,0.55,0.06,Great campaign performance and strong user engagement
+C0144,Gaming Accessories,1206,37677,1228,0.0326,0.4,0.12,"Mixed feedback, moderate performance"
+C0145,Gaming Accessories,2397,46289,760,0.0164,0.39,0.14,High click-through but low conversions
+C0146,Camera Accessories,1604,46024,1031,0.0224,0.39,0.1,Great campaign performance and strong user engagement
+C0147,Gaming Accessories,898,19777,1051,0.0531,0.55,0.17,Great campaign performance and strong user engagement
+C0148,Camera Accessories,1483,44749,1224,0.0274,0.52,0.07,"Low engagement, unclear messaging"
+C0149,Home Audio,1525,30338,1208,0.0398,0.48,0.06,"Mixed feedback, moderate performance"
+C0150,Camera Accessories,2370,17491,689,0.0394,0.44,0.16,High click-through but low conversions
+C0151,Gaming Accessories,1760,42236,1182,0.028,0.57,0.12,High click-through but low conversions
+C0152,Home Audio,1412,29599,555,0.0188,0.45,0.15,"Low engagement, unclear messaging"
+C0153,Home Audio,2285,34508,1008,0.0292,0.55,0.12,"Mixed feedback, moderate performance"
+C0154,Camera Accessories,1442,18051,749,0.0415,0.46,0.09,High click-through but low conversions
+C0155,Home Audio,1828,36606,309,0.0084,0.44,0.17,"Mixed feedback, moderate performance"
+C0156,Camera Accessories,2041,36699,1123,0.0306,0.47,0.17,High click-through but low conversions
+C0157,Home Audio,1302,15876,1097,0.0691,0.43,0.15,"Low engagement, unclear messaging"
+C0158,Camera Accessories,1566,47093,1176,0.025,0.54,0.09,Strong sentiment and excellent brand recall
+C0159,Gaming Accessories,1197,19142,1328,0.0694,0.48,0.14,High click-through but low conversions
+C0160,Camera Accessories,1670,30202,1442,0.0477,0.41,0.1,Great campaign performance and strong user engagement
+C0161,Camera Accessories,1594,22079,1315,0.0596,0.57,0.06,Great campaign performance and strong user engagement
+C0162,Gaming Accessories,1192,22987,673,0.0293,0.45,0.19,Strong sentiment and excellent brand recall
+C0163,Camera Accessories,1006,43940,1388,0.0316,0.49,0.07,High click-through but low conversions
+C0164,Camera Accessories,1838,32019,445,0.0139,0.58,0.19,Great campaign performance and strong user engagement
+C0165,Home Audio,2377,33077,523,0.0158,0.51,0.12,Great campaign performance and strong user engagement
+C0166,Camera Accessories,1691,41258,476,0.0115,0.38,0.08,High click-through but low conversions
+C0167,Home Audio,2284,36136,1152,0.0319,0.58,0.13,"Mixed feedback, moderate performance"
+C0168,Gaming Accessories,2398,23311,362,0.0155,0.51,0.18,High click-through but low conversions
+C0169,Home Audio,1663,32214,1126,0.035,0.43,0.16,"Mixed feedback, moderate performance"
+C0170,Home Audio,1542,29098,1094,0.0376,0.38,0.17,Strong sentiment and excellent brand recall
+C0171,Gaming Accessories,2064,43251,988,0.0228,0.55,0.15,"Low engagement, unclear messaging"
+C0172,Home Audio,1363,40945,404,0.0099,0.51,0.15,Strong sentiment and excellent brand recall
+C0173,Gaming Accessories,1820,40316,1422,0.0353,0.48,0.18,"Low engagement, unclear messaging"
+C0174,Camera Accessories,895,47217,810,0.0172,0.57,0.09,Great campaign performance and strong user engagement
+C0175,Camera Accessories,1284,23308,684,0.0293,0.55,0.12,Great campaign performance and strong user engagement
+C0176,Home Audio,2230,20949,704,0.0336,0.39,0.08,Great campaign performance and strong user engagement
+C0177,Camera Accessories,1030,16150,1122,0.0695,0.43,0.2,"Mixed feedback, moderate performance"
+C0178,Gaming Accessories,1548,38944,817,0.021,0.41,0.19,"Low engagement, unclear messaging"
+C0179,Camera Accessories,2478,49699,775,0.0156,0.54,0.06,Great campaign performance and strong user engagement
+C0180,Gaming Accessories,1994,24204,1008,0.0416,0.36,0.16,High click-through but low conversions
+C0181,Camera Accessories,1340,16081,1070,0.0665,0.49,0.19,"Low engagement, unclear messaging"
+C0182,Home Audio,1859,44305,1346,0.0304,0.54,0.08,"Low engagement, unclear messaging"
+C0183,Camera Accessories,1324,31896,1296,0.0406,0.57,0.14,"Mixed feedback, moderate performance"
+C0184,Camera Accessories,1983,22805,976,0.0428,0.44,0.19,Strong sentiment and excellent brand recall
+C0185,Camera Accessories,2066,20237,1013,0.0501,0.56,0.06,"Mixed feedback, moderate performance"
+C0186,Gaming Accessories,1909,35056,382,0.0109,0.38,0.15,Great campaign performance and strong user engagement
+C0187,Gaming Accessories,1377,18343,1468,0.08,0.56,0.09,High click-through but low conversions
+C0188,Home Audio,1481,28500,1408,0.0494,0.38,0.19,High click-through but low conversions
+C0189,Gaming Accessories,1356,44375,1401,0.0316,0.45,0.2,Great campaign performance and strong user engagement
+C0190,Camera Accessories,2397,24662,756,0.0307,0.55,0.19,High click-through but low conversions
+C0191,Camera Accessories,1812,31964,300,0.0094,0.39,0.12,"Mixed feedback, moderate performance"
+C0192,Gaming Accessories,1445,23130,350,0.0151,0.41,0.18,"Mixed feedback, moderate performance"
+C0193,Camera Accessories,1595,34531,984,0.0285,0.53,0.18,Great campaign performance and strong user engagement
+C0194,Home Audio,1851,16679,1016,0.0609,0.53,0.1,High click-through but low conversions
+C0195,Home Audio,2443,18506,748,0.0404,0.51,0.17,"Low engagement, unclear messaging"
+C0196,Gaming Accessories,2379,28284,1180,0.0417,0.52,0.06,Strong sentiment and excellent brand recall
+C0197,Gaming Accessories,2163,22253,787,0.0354,0.49,0.14,"Low engagement, unclear messaging"
+C0198,Home Audio,2154,34128,333,0.0098,0.41,0.08,"Mixed feedback, moderate performance"
+C0199,Home Audio,2463,42932,394,0.0092,0.44,0.07,"Mixed feedback, moderate performance"
+C0200,Gaming Accessories,2329,24435,1395,0.0571,0.4,0.06,"Mixed feedback, moderate performance"
+C0201,Gaming Accessories,2171,28296,453,0.016,0.58,0.15,"Mixed feedback, moderate performance"
+C0202,Gaming Accessories,2296,45445,549,0.0121,0.5,0.1,Strong sentiment and excellent brand recall
+C0203,Camera Accessories,2054,28245,973,0.0344,0.45,0.16,Great campaign performance and strong user engagement
+C0204,Gaming Accessories,989,44124,737,0.0167,0.47,0.06,"Mixed feedback, moderate performance"
+C0205,Gaming Accessories,2048,44899,417,0.0093,0.59,0.1,High click-through but low conversions
+C0206,Camera Accessories,2208,44222,1070,0.0242,0.39,0.13,Strong sentiment and excellent brand recall
+C0207,Home Audio,2200,41211,567,0.0138,0.5,0.17,"Mixed feedback, moderate performance"
+C0208,Gaming Accessories,2106,41646,1377,0.0331,0.48,0.1,High click-through but low conversions
+C0209,Camera Accessories,1432,38049,535,0.0141,0.5,0.14,"Mixed feedback, moderate performance"
+C0210,Gaming Accessories,1427,29069,688,0.0237,0.35,0.18,Great campaign performance and strong user engagement
+C0211,Gaming Accessories,1772,47580,1289,0.0271,0.57,0.14,Strong sentiment and excellent brand recall
+C0212,Camera Accessories,2082,46843,1062,0.0227,0.58,0.08,Great campaign performance and strong user engagement
+C0213,Home Audio,2182,17849,700,0.0392,0.49,0.05,Strong sentiment and excellent brand recall
+C0214,Camera Accessories,1509,38289,923,0.0241,0.52,0.18,"Mixed feedback, moderate performance"
+C0215,Gaming Accessories,2279,24823,1066,0.0429,0.58,0.05,"Mixed feedback, moderate performance"
+C0216,Home Audio,2234,24540,1218,0.0496,0.53,0.18,Strong sentiment and excellent brand recall
+C0217,Camera Accessories,1448,31364,1152,0.0367,0.39,0.13,High click-through but low conversions
+C0218,Camera Accessories,1117,19611,877,0.0447,0.49,0.19,High click-through but low conversions
+C0219,Home Audio,2048,42663,374,0.0088,0.5,0.17,"Mixed feedback, moderate performance"
+C0220,Gaming Accessories,2057,45977,734,0.016,0.46,0.2,"Mixed feedback, moderate performance"
+C0221,Camera Accessories,1483,44168,402,0.0091,0.53,0.1,Great campaign performance and strong user engagement
+C0222,Camera Accessories,1463,40471,1063,0.0263,0.58,0.17,"Mixed feedback, moderate performance"
+C0223,Camera Accessories,2197,37687,1037,0.0275,0.58,0.11,Strong sentiment and excellent brand recall
+C0224,Gaming Accessories,2495,15851,1105,0.0697,0.46,0.12,High click-through but low conversions
+C0225,Camera Accessories,2431,33071,397,0.012,0.38,0.14,High click-through but low conversions
+C0226,Home Audio,2295,21833,1097,0.0502,0.6,0.18,Great campaign performance and strong user engagement
+C0227,Home Audio,2056,26938,1158,0.043,0.56,0.2,High click-through but low conversions
+C0228,Camera Accessories,1936,41144,734,0.0178,0.38,0.17,High click-through but low conversions
+C0229,Camera Accessories,2320,19000,746,0.0393,0.58,0.11,"Low engagement, unclear messaging"
+C0230,Home Audio,1241,20052,548,0.0273,0.57,0.11,Strong sentiment and excellent brand recall
+C0231,Home Audio,1363,43074,465,0.0108,0.48,0.16,"Low engagement, unclear messaging"
+C0232,Camera Accessories,2091,47320,1283,0.0271,0.5,0.09,High click-through but low conversions
+C0233,Home Audio,2333,18913,1319,0.0697,0.45,0.07,Great campaign performance and strong user engagement
+C0234,Gaming Accessories,2209,32450,841,0.0259,0.36,0.1,Great campaign performance and strong user engagement
+C0235,Gaming Accessories,2210,39107,1058,0.0271,0.43,0.09,High click-through but low conversions
+C0236,Gaming Accessories,1936,35764,1429,0.04,0.55,0.09,"Mixed feedback, moderate performance"
+C0237,Gaming Accessories,2436,35491,380,0.0107,0.35,0.09,"Low engagement, unclear messaging"
+C0238,Home Audio,2448,18373,432,0.0235,0.43,0.06,High click-through but low conversions
+C0239,Gaming Accessories,1751,27161,1096,0.0404,0.45,0.05,Great campaign performance and strong user engagement
+C0240,Camera Accessories,1904,46996,1199,0.0255,0.48,0.2,Great campaign performance and strong user engagement
+C0241,Camera Accessories,1498,42122,437,0.0104,0.58,0.11,"Low engagement, unclear messaging"
+C0242,Gaming Accessories,912,49850,483,0.0097,0.44,0.11,Strong sentiment and excellent brand recall
+C0243,Camera Accessories,801,42350,1084,0.0256,0.44,0.15,High click-through but low conversions
+C0244,Gaming Accessories,1441,42472,1283,0.0302,0.53,0.08,High click-through but low conversions
+C0245,Gaming Accessories,1019,43761,368,0.0084,0.46,0.19,Strong sentiment and excellent brand recall
+C0246,Gaming Accessories,2389,40351,845,0.0209,0.41,0.17,"Low engagement, unclear messaging"
+C0247,Camera Accessories,1654,38132,352,0.0092,0.46,0.06,"Low engagement, unclear messaging"
+C0248,Camera Accessories,2048,30305,504,0.0166,0.39,0.11,Great campaign performance and strong user engagement
+C0249,Gaming Accessories,1184,24817,425,0.0171,0.39,0.18,Strong sentiment and excellent brand recall
+C0250,Gaming Accessories,2226,26261,342,0.013,0.47,0.19,"Low engagement, unclear messaging"
